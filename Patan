@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html lang="gu" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO & Open Graph -->
+    <title>રાજવી નાયલોન ખમણ | RAJVI NAYLON KHAMAN - Authentic Patan Style</title>
+    <meta name="description" content="પાટણની અસલી સ્વાદિષ્ટ ખમણ હવે તરત તૈયાર. 400g રેડી-ટૂ-યુઝ મિક્સ. Authentic Patan-style khaman mix, ready in minutes.">
+    <meta property="og:title" content="રાજવી નાયલોન ખમણ | RAJVI NAYLON KHAMAN">
+    <meta property="og:description" content="પાટણની અસલી સ્વાદિષ્ટ ખમણ હવે તરત તૈયાર.">
+    <meta property="og:image" content="https://z-cdn-media.chatglm.cn/files/4c703d6b-f25c-4700-99b3-0e1570b7df86_Gemini_Generated_Image_e1nmi4e1nmi4e1nm.png?auth_key=1862860558-b8530d0b74cc45d3bbce262e7afaae16-0-e9a1424fc8acee4a6af4b1d14ba84998">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <style>
+        /* ========== CSS Custom Properties & Animations ========== */
+        :root {
+            --color-primary: #FF6B35;
+            --color-secondary: #25D366;
+            --color-bg: #FDFAF7;
+            --color-surface: #FFFFFF;
+            --color-text: #1A1A1A;
+            --color-text-muted: #555555;
+            --color-border: #E0E0E0;
+            --shadow-sm: 0 2px 8px rgba(0,0,0,0.08);
+            --shadow-md: 0 4px 20px rgba(0,0,0,0.12);
+            --shadow-lg: 0 8px 40px rgba(0,0,0,0.16);
+            --radius: 12px;
+            --radius-sm: 6px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        @keyframes shimmer {
+            0% { background-position: -1000px 0; }
+            100% { background-position: 1000px 0; }
+        }
+
+        /* ========== Base Styles ========== */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            font-size: 16px;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--color-text);
+            background: var(--color-bg);
+            overflow-x: hidden;
+        }
+
+        /* ========== Accessibility ========== */
+        .skip-link {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            background: var(--color-primary);
+            color: white;
+            padding: 8px;
+            text-decoration: none;
+            border-radius: 0 0 var(--radius-sm) 0;
+            z-index: 1000;
+        }
+
+        .skip-link:focus {
+            top: 0;
+        }
+
+        *:focus-visible {
+            outline: 2px solid var(--color-primary);
+            outline-offset: 2px;
+        }
+
+        /* ========== Layout ========== */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        section {
+            padding: 5rem 0;
+            animation: fadeInUp 0.8s ease-out forwards;
+            opacity: 0;
+        }
+
+        section:nth-child(even) {
+            background: var(--color-surface);
+        }
+
+        /* ========== Language Toggle with Animation ========== */
+        .lang-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            z-index: 100;
+            background: var(--color-surface);
+            border: 2px solid var(--color-primary);
+            border-radius: 30px;
+            padding: 0.5rem 1.5rem;
+            cursor: pointer;
+            font-weight: 700;
+            box-shadow: var(--shadow-md);
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .lang-toggle:hover {
+            transform: scale(1.1);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .lang-toggle::before {
+            content: '🌐';
+            font-size: 1.2rem;
+        }
+
+        /* ========== Header ========== */
+        .header {
+            background: var(--color-surface);
+            padding: 1rem 0;
+            box-shadow: var(--shadow-sm);
+            position: sticky;
+            top: 0;
+            z-index: 90;
+            backdrop-filter: blur(10px);
+            background: rgba(255, 255, 255, 0.95);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        .text-logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--color-primary);
+            letter-spacing: -0.5px;
+        }
+
+        /* ========== Sticky Contact Bar ========== */
+        .sticky-contact {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 0.75rem;
+            display: flex;
+            gap: 0.5rem;
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.1);
+            z-index: 95;
+            transform: translateY(100%);
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+        }
+
+        .sticky-contact.visible {
+            transform: translateY(0);
+            animation: pulse 2s infinite;
+        }
+
+        .sticky-contact a {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 0.75rem;
+            border-radius: var(--radius-sm);
+            text-decoration: none;
+            font-weight: 700;
+            transition: var(--transition);
+            color: white;
+        }
+
+        .btn-call {
+            background: var(--color-primary);
+        }
+
+        .btn-call:hover {
+            background: #E55A2B;
+            transform: translateY(-2px);
+        }
+
+        .btn-whatsapp {
+            background: var(--color-secondary);
+        }
+
+        .btn-whatsapp:hover {
+            background: #1EBE5A;
+            transform: translateY(-2px);
+        }
+
+        /* ========== Hero with Parallax ========== */
+        .hero {
+            background: linear-gradient(135deg, #FFF9F6 0%, #F5F0EB 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,107,53,0.1) 0%, transparent 70%);
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            align-items: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero-image {
+            text-align: center;
+            animation: float 4s ease-in-out infinite;
+        }
+
+        .hero-image img {
+            width: 100%;
+            max-width: 450px;
+            filter: drop-shadow(var(--shadow-lg));
+            transition: var(--transition);
+        }
+
+        .hero-image img:hover {
+            transform: scale(1.05) rotate(2deg);
+        }
+
+        .hero-content h1 {
+            font-size: clamp(1.8rem, 5vw, 3rem);
+            line-height: 1.2;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subheadline {
+            font-size: 1.25rem;
+            color: var(--color-text-muted);
+            margin-bottom: 2rem;
+        }
+
+        .hero-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .scroll-indicator {
+            position: absolute;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            animation: bounce 2s infinite;
+            cursor: pointer;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+            40% { transform: translateX(-50%) translateY(-10px); }
+            60% { transform: translateX(-50%) translateY(-5px); }
+        }
+
+        /* ========== Enhanced Buttons ========== */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            border-radius: var(--radius-sm);
+            text-decoration: none;
+            font-weight: 700;
+            transition: var(--transition);
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            transition: left 0.5s;
+        }
+
+        .btn:hover::before {
+            left: 100%;
+        }
+
+        .btn-primary {
+            background: var(--color-primary);
+            color: white;
+            border: 2px solid var(--color-primary);
+        }
+
+        .btn-primary:hover {
+            background: transparent;
+            color: var(--color-primary);
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--color-primary);
+            border: 2px solid var(--color-primary);
+        }
+
+        .btn-secondary:hover {
+            background: var(--color-primary);
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* ========== Product Highlights with Glass Effect ========== */
+        .highlights h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .highlights-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .highlight-card {
+            background: var(--color-surface);
+            padding: 2rem 1.5rem;
+            border-radius: var(--radius);
+            text-align: center;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .highlight-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, transparent, rgba(255,107,53,0.05));
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .highlight-card:hover::before {
+            opacity: 1;
+        }
+
+        .highlight-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .highlight-card .icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .highlight-card h3 {
+            font-size: 1.125rem;
+            font-weight: 700;
+        }
+
+        /* ========== How to Prepare ========== */
+        .prepare h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .steps-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .step {
+            background: var(--color-surface);
+            padding: 2rem 1rem;
+            border-radius: var(--radius);
+            text-align: center;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+            position: relative;
+            border: 2px solid transparent;
+        }
+
+        .step:hover {
+            border-color: var(--color-primary);
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .step-icon {
+            width: 70px;
+            height: 70px;
+            margin-bottom: 1rem;
+            transition: transform 0.3s;
+        }
+
+        .step:hover .step-icon {
+            transform: scale(1.1);
+        }
+
+        .step h4 {
+            font-size: 1rem;
+            font-weight: 700;
+        }
+
+        /* ========== Ingredients ========== */
+        .ingredients h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .info-card {
+            background: var(--color-surface);
+            padding: 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+            border-left: 4px solid var(--color-primary);
+        }
+
+        .info-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateX(5px);
+        }
+
+        .info-card h3 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--color-primary);
+        }
+
+        /* ========== Pack Info ========== */
+        .pack-card {
+            background: var(--color-surface);
+            padding: 3rem 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-lg);
+            text-align: center;
+            max-width: 450px;
+            margin: 0 auto;
+            border: 2px dashed var(--color-primary);
+            position: relative;
+        }
+
+        .pack-card::after {
+            content: '★';
+            position: absolute;
+            top: -15px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--color-surface);
+            padding: 0 1rem;
+            font-size: 2rem;
+            color: var(--color-primary);
+        }
+
+        /* ========== Gallery with Hover Effects ========== */
+        .gallery h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .gallery-item {
+            position: relative;
+            background: var(--color-surface);
+            border-radius: var(--radius);
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+            cursor: pointer;
+            aspect-ratio: 4/3;
+        }
+
+        .gallery-item:hover {
+            transform: scale(1.03);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s;
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.1);
+        }
+
+        .gallery-item figcaption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(transparent, rgba(0,0,0,0.8));
+            color: white;
+            padding: 1rem;
+            font-weight: 700;
+            transform: translateY(100%);
+            transition: transform 0.3s;
+        }
+
+        .gallery-item:hover figcaption {
+            transform: translateY(0);
+        }
+
+        /* ========== Lightbox ========== */
+        .lightbox {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.95);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+            transition: var(--transition);
+        }
+
+        .lightbox.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .lightbox-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: var(--color-primary);
+            border: none;
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            transition: var(--transition);
+        }
+
+        .lightbox-close:hover {
+            background: #E55A2B;
+            transform: rotate(90deg);
+        }
+
+        .lightbox-img {
+            max-width: 90%;
+            max-height: 80%;
+            object-fit: contain;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-lg);
+            animation: fadeInUp 0.3s ease-out;
+        }
+
+        .lightbox-caption {
+            color: white;
+            margin-top: 1rem;
+            font-size: 1.125rem;
+            background: rgba(0,0,0,0.5);
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+        }
+
+        /* ========== Reviews ========== */
+        .reviews h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .reviews-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .review-card {
+            background: var(--color-surface);
+            padding: 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-sm);
+            border-left: 4px solid var(--color-primary);
+            transition: var(--transition);
+        }
+
+        .review-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-5px);
+        }
+
+        .review-card .stars {
+            color: #FFD700;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            letter-spacing: 2px;
+        }
+
+        .review-card p {
+            font-style: italic;
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+        }
+
+        .review-card cite {
+            font-size: 0.9rem;
+            color: var(--color-text-muted);
+            font-weight: 600;
+        }
+
+        /* ========== Contact ========== */
+        .contact h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 2rem;
+            background: linear-gradient(135deg, var(--color-primary), #E55A2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .contact-card {
+            background: var(--color-surface);
+            padding: 3rem 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            text-align: center;
+            max-width: 450px;
+            margin: 0 auto;
+            border: 2px solid var(--color-primary);
+        }
+
+        .contact-number {
+            font-size: 2rem;
+            font-weight: 800;
+            margin: 1rem 0;
+            color: var(--color-primary);
+            font-family: 'Courier New', monospace;
+        }
+
+        .contact-actions {
+            display: flex;
+            gap: 0.75rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        /* ========== Footer ========== */
+        .footer {
+            background: var(--color-text);
+            color: white;
+            padding: 3rem 0;
+            text-align: center;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin: 1.5rem 0;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            transition: var(--transition);
+            font-weight: 600;
+        }
+
+        .footer-links a:hover {
+            color: var(--color-primary);
+            transform: translateY(-2px);
+        }
+
+        /* ========== Utilities ========== */
+        .hidden {
+            display: none !important;
+        }
+
+        /* ========== Shipping Section ========== */
+        .shipping {
+            padding: 3rem 0;
+        }
+
+        .shipping-card {
+            background: var(--color-surface);
+            padding: 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            border: 2px solid var(--color-primary);
+        }
+
+        /* ========== Responsive ========== */
+        @media (min-width: 768px) {
+            .hero-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .hero-image {
+                order: 2;
+            }
+
+            .hero-actions {
+                flex-direction: row;
+            }
+
+            .sticky-contact {
+                display: none;
+            }
+
+            .container {
+                padding: 0 2rem;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .hero-content h1 {
+                font-size: 3.5rem;
+            }
+
+            .highlights-grid,
+            .steps-grid {
+                grid-template-columns: repeat(4, 1fr);
+            }
+        }
+    </style>
+<base target="_blank">
+</head>
+<body>
+    <!-- Skip to content -->
+    <a href="#main" class="skip-link">Skip to main content</a>
+
+    <!-- Language Toggle -->
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language (ભાષા બદલો)">
+        <span data-lang="gu">ENGLISH</span>
+        <span data-lang="en" class="hidden">ગુજરાતી</span>
+    </button>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <span class="text-logo" data-lang="gu">રાજવી નાયલોન ખમણ</span>
+                <span class="text-logo hidden" data-lang="en">RAJVI NAYLON KHAMAN</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sticky Contact Bar -->
+    <div class="sticky-contact" role="complementary" aria-label="Quick contact">
+        <a href="tel:+919825676227" class="btn-call" aria-label="Call now">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+            <span data-lang="gu">ફોન કરો</span>
+            <span data-lang="en" class="hidden">Call</span>
+        </a>
+        <a href="https://wa.me/919825676227" class="btn-whatsapp" aria-label="WhatsApp message">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.254-.462-2.385-1.473-.882-.785-1.477-1.754-1.65-2.05-.174-.298-.018-.458.13-.606.134-.133.298-.347.447-.52.15-.174.198-.298.298-.497.099-.198.05-.372-.025-.521-.075-.149-.67-1.612-.916-2.207-.242-.579-.487-.5-.67-.51-.173-.008-.297-.01-.47-.01-.173 0-.445.064-.678.319-.232.254-.893.872-.893 2.128 0 1.256.915 2.469 1.043 2.636.128.167 1.8 2.75 4.368 3.86.61.264 1.086.422 1.458.538.612.194 1.17.167 1.61.101.492-.073 1.512-.618 1.726-1.216.214-.598.214-1.11.15-1.217-.064-.106-.236-.167-.533-.316z"/>
+                <path d="M20.52 3.476C18.24 1.195 15.24 0 12.045 0 5.463 0 .104 5.359.104 11.94c0 2.105.558 4.158 1.62 5.96L0 24l6.335-1.66c1.754.95 3.72 1.45 5.71 1.45h.005c6.58 0 11.94-5.36 11.94-11.94 0-3.18-1.237-6.17-3.485-8.425zm-8.41 20.89c-.074 1.7-.882 3.18-2.07 4.36-1.21 1.21-2.84 2.02-4.65 2.09-1.3.05-2.57-.21-3.71-.63-.87-.32-1.76-.74-2.7-1.29l-.61-.36-2.54.67.67-2.54-.36-.61c-.55-.94-.97-1.83-1.29-2.7-.42-1.14-.68-2.41-.63-3.71.07-1.81.88-3.44 2.09-4.65 1.18-1.18 2.66-1.996 4.36-2.07.45-.02.9-.01 1.34.09.23.05.5.11.79.18.12.03.25.07.38.11.16.05.33.11.5.17.14.05.28.1.42.15.31.11.62.23.92.35.31.12.61.25.9.38.3.13.59.27.87.41.28.14.56.29.83.44.27.15.53.31.79.47.25.16.5.33.74.5.24.17.47.35.7.53.23.18.45.37.67.55.21.19.42.38.62.58.2.2.39.4.58.62.18.22.37.44.55.67.18.23.36.46.53.7.17.24.34.49.5.74.16.26.32.52.47.79.15.27.3.55.44.83.14.28.28.57.41.87.13.29.26.59.38.9.12.3.24.61.35.92.05.14.1.28.15.42.06.17.12.34.17.5.04.13.08.26.11.38.07.29.13.56.18.79.1.44.11.89.09 1.34z"/>
+            </svg>
+            <span data-lang="gu">વોટ્સએપ્પ</span>
+            <span data-lang="en" class="hidden">WhatsApp</span>
+        </a>
+    </div>
+
+    <!-- Main Content -->
+    <main id="main">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-grid">
+                    <div class="hero-image">
+                        <img src="https://z-cdn-media.chatglm.cn/files/4c703d6b-f25c-4700-99b3-0e1570b7df86_Gemini_Generated_Image_e1nmi4e1nmi4e1nm.png?auth_key=1862860558-b8530d0b74cc45d3bbce262e7afaae16-0-e9a1424fc8acee4a6af4b1d14ba84998" 
+                             alt="રાજવી નાયલોન ખમણ પેકેટ RAJVI NAYLON KHAMAN package 400g" 
+                             loading="eager">
+                    </div>
+                    <div class="hero-content">
+                        <h1>
+                            <span data-lang="gu">રાજવી નાયલોન ખમણ — પાટણની અસલી સ્વાદ હવે તરત તૈયાર</span>
+                            <span data-lang="en" class="hidden">RAJVI NAYLON KHAMAN — Authentic Patan Taste, Ready in Minutes</span>
+                        </h1>
+                        <p class="subheadline">
+                            <span data-lang="gu">⚡ ફક્ત મિનિટોમાં નરમ, સ્પોંજી ખમણ. 400 ગ્રામ પૅક. કિંમત માટે સંપર્ક કરો.</span>
+                            <span data-lang="en" class="hidden">⚡ Soft, airy khaman in minutes. 400g pack. Contact for price.</span>
+                        </p>
+                        <div class="hero-actions">
+                            <a href="tel:+919825676227" class="btn btn-primary">
+                                <span data-lang="gu">📞 ફોન કરો</span>
+                                <span data-lang="en" class="hidden">📞 Call Now</span>
+                            </a>
+                            <a href="https://wa.me/919825676227?text=Hello%20I%20want%20to%20know%20the%20price%20of%20RAJVI%20NAYLON%20KHAMAN%20400g" class="btn btn-secondary">
+                                <span data-lang="gu">💬 કિંમત માટે પૂછો</span>
+                                <span data-lang="en" class="hidden">💬 Request Price</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="scroll-indicator" onclick="document.getElementById('highlights').scrollIntoView({behavior: 'smooth'})">
+                <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="3">
+                    <path d="M6 9l6 6 6-6"/>
+                </svg>
+            </div>
+        </section>
+
+        <!-- Product Highlights -->
+        <section id="highlights" class="highlights">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">ઉત્પાદનની ખાસિયતો</span>
+                    <span data-lang="en" class="hidden">Product Highlights</span>
+                </h2>
+                <div class="highlights-grid">
+                    <div class="highlight-card">
+                        <span class="icon">⚡</span>
+                        <h3 data-lang="gu">મિનિટોમાં તૈયાર</h3>
+                        <h3 data-lang="en" class="hidden">Ready in Minutes</h3>
+                    </div>
+                    <div class="highlight-card">
+                        <span class="icon">🎯</span>
+                        <h3 data-lang="gu">અસલી પાટણ સ્વાદ</h3>
+                        <h3 data-lang="en" class="hidden">Authentic Patan Taste</h3>
+                    </div>
+                    <div class="highlight-card">
+                        <span class="icon">☁️</span>
+                        <h3 data-lang="gu">નરમ, હવાદાર બનાવટ</h3>
+                        <h3 data-lang="en" class="hidden">Soft, Airy Texture</h3>
+                    </div>
+                    <div class="highlight-card">
+                        <span class="icon">✨</span>
+                        <h3 data-lang="gu">સતત પરિણામ</h3>
+                        <h3 data-lang="en" class="hidden">Consistent Results</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- How to Prepare -->
+        <section class="prepare">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">ખમણ તૈયાર કરવાની રીત</span>
+                    <span data-lang="en" class="hidden">How to Prepare</span>
+                </h2>
+                <div class="steps-grid">
+                    <div class="step">
+                        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 70 70'%3E%3Ccircle cx='35' cy='35' r='30' fill='%23FFF9F6' stroke='%23FF6B35' stroke-width='3'/%3E%3Cpath d='M35 20 L35 50 M20 35 L50 35' stroke='%23FF6B35' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E" 
+                             class="step-icon" alt="">
+                        <h4 data-lang="gu">મિશ્રણ તૈયાર કરો</h4>
+                        <h4 data-lang="en" class="hidden">Mix</h4>
+                    </div>
+                    <div class="step">
+                        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 70 70'%3E%3Ccircle cx='35' cy='35' r='30' fill='%23FFF9F6' stroke='%23FF6B35' stroke-width='3'/%3E%3Cpath d='M25 25 Q35 15 45 25 Q55 35 45 45 Q35 55 25 45 Q15 35 25 25 Z' fill='%23FF6B35'/%3E%3C/svg%3E" 
+                             class="step-icon" alt="">
+                        <h4 data-lang="gu">વરાળી/સ્ટીમ કરો</h4>
+                        <h4 data-lang="en" class="hidden">Steam</h4>
+                    </div>
+                    <div class="step">
+                        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 70 70'%3E%3Ccircle cx='35' cy='35' r='30' fill='%23FFF9F6' stroke='%23FF6B35' stroke-width='3'/%3E%3Cpath d='M20 35 L35 20 L50 35 L35 50 Z' fill='none' stroke='%23FF6B35' stroke-width='4'/%3E%3Ccircle cx='35' cy='35' r='3' fill='%23FF6B35'/%3E%3C/svg%3E" 
+                             class="step-icon" alt="">
+                        <h4 data-lang="gu">તડકો અને કાપો</h4>
+                        <h4 data-lang="en" class="hidden">Temper & Slice</h4>
+                    </div>
+                    <div class="step">
+                        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 70 70'%3E%3Ccircle cx='35' cy='35' r='30' fill='%23FFF9F6' stroke='%23FF6B35' stroke-width='3'/%3E%3Cpath d='M35 20 L25 40 L35 35 L45 40 Z' fill='%23FF6B35'/%3E%3C/svg%3E" 
+                             class="step-icon" alt="">
+                        <h4 data-lang="gu">પીરસો</h4>
+                        <h4 data-lang="en" class="hidden">Serve</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Ingredients & Storage -->
+        <section class="ingredients">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">ઘટકો અને સંગ્રહ</span>
+                    <span data-lang="en" class="hidden">Ingredients & Storage</span>
+                </h2>
+                <div class="info-grid">
+                    <div class="info-card">
+                        <h3 data-lang="gu">🥄 મુખ્ય ઘટકો</h3>
+                        <h3 data-lang="en" class="hidden">🥄 Key Ingredients</h3>
+                        <ul>
+                            <li data-lang="gu">ચણાનો લોટ (Gram Flour)</li>
+                            <li data-lang="en" class="hidden">Gram Flour</li>
+                            <li data-lang="gu">ખમણ દ્રાવક (Khaman Leavening Agent)</li>
+                            <li data-lang="en" class="hidden">Khaman Leavening Agent</li>
+                            <li data-lang="gu">મીઠું, ખાંડ, લીંબુ (Salt, Sugar, Lemon)</li>
+                            <li data-lang="en" class="hidden">Salt, Sugar, Lemon</li>
+                        </ul>
+                    </div>
+                    <div class="info-card">
+                        <h3 data-lang="gu">⚠️ એલર્જી માહિતી</h3>
+                        <h3 data-lang="en" class="hidden">⚠️ Allergen Info</h3>
+                        <p data-lang="gu">સીમેલિસથી મુક્ત. આદર્શ રીતે તૈયાર થાય છે.</p>
+                        <p data-lang="en" class="hidden">Gluten-free. Prepared in allergen-free facility.</p>
+                    </div>
+                    <div class="info-card">
+                        <h3 data-lang="gu">📦 સંગ્રહ કરવાની રીત</h3>
+                        <h3 data-lang="en" class="hidden">📦 Storage</h3>
+                        <p data-lang="gu">ઠંડા, સુકા સ્થાને સંગ્રહ કરો. પેકેટ ખોલ્યા પછી એરટાઇટ કન્ટેનરમાં રાખો.</p>
+                        <p data-lang="en" class="hidden">Store in cool, dry place. Transfer to airtight container after opening.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Pack Info -->
+        <section class="pack-info">
+            <div class="container">
+                <div class="pack-card">
+                    <h3>
+                        <span data-lang="gu">📋 પેક વિગતો</span>
+                        <span data-lang="en" class="hidden">📋 Pack Details</span>
+                    </h3>
+                    <p class="weight" style="font-size: 1.5rem; margin: 1rem 0;">
+                        <span data-lang="gu">⚖️ નેટ વજન: 400 ગ્રામ</span>
+                        <span data-lang="en" class="hidden">⚖️ Net Weight: 400g</span>
+                    </p>
+                    <p class="price" style="font-size: 1.5rem; margin: 1rem 0; color: var(--color-primary);">
+                        <span data-lang="gu">💰 કિંમત: સંપર્ક કરો</span>
+                        <span data-lang="en" class="hidden">💰 Price: Contact for price</span>
+                    </p>
+                    <a href="https://wa.me/919825676227?text=Hello%20I%20want%20to%20know%20the%20price%20of%20RAJVI%20NAYLON%20KHAMAN%20400g" 
+                       class="btn btn-secondary" id="priceBtn" style="margin-top: 1rem;">
+                        <span data-lang="gu">💬 કિંમત માટે પૂછો</span>
+                        <span data-lang="en" class="hidden">💬 Request Price</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery -->
+        <section class="gallery">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">📸 ગેલેરી</span>
+                    <span data-lang="en" class="hidden">📸 Gallery</span>
+                </h2>
+                <div class="gallery-grid">
+                    <figure class="gallery-item">
+                        <img src="https://z-cdn-media.chatglm.cn/files/4c703d6b-f25c-4700-99b3-0e1570b7df86_Gemini_Generated_Image_e1nmi4e1nmi4e1nm.png?auth_key=1862860558-b8530d0b74cc45d3bbce262e7afaae16-0-e9a1424fc8acee4a6af4b1d14ba84998" 
+                             alt="રાજવી ખમણ પેકેટ RAJVI Khaman packet" loading="lazy">
+                        <figcaption>
+                            <span data-lang="gu">ઉત્પાદન</span>
+                            <span data-lang="en" class="hidden">Product</span>
+                        </figcaption>
+                    </figure>
+                    <figure class="gallery-item">
+                        <img src="https://z-cdn-media.chatglm.cn/files/9909dfcd-3155-46e7-8e4f-a34e08d78177_Gemini_Generated_Image_1oexdu1oexdu1oex.png?auth_key=1862860558-d46df5480402440291d46924f3585bb5-0-3ea6e68af069921e8ac94019e8d2dbcb" 
+                             alt="તૈયાર કરેલું ખમણ Prepared khaman" loading="lazy">
+                        <figcaption>
+                            <span data-lang="gu">તૈયાર થયું</span>
+                            <span data-lang="en" class="hidden">Prepared</span>
+                        </figcaption>
+                    </figure>
+                    <figure class="gallery-item">
+                        <img src="https://z-cdn-media.chatglm.cn/files/1f846004-c2ff-4023-a804-eae61605ed13_Gemini_Generated_Image_bkofdbbkofdbbkof.png?auth_key=1862860558-043e87fe5ac344c9b3997e2e40637d44-0-46a69f00f789b7a7b5f8c1841b6e539a" 
+                             alt="ખમણ સર્વિંગ આઇડિયા Khaman serving suggestion" loading="lazy">
+                        <figcaption>
+                            <span data-lang="gu">સર્વિંગ આઇડિયા</span>
+                            <span data-lang="en" class="hidden">Serving Idea</span>
+                        </figcaption>
+                    </figure>
+                    <figure class="gallery-item">
+                        <img src="https://z-cdn-media.chatglm.cn/files/52745b56-6196-411a-94f7-888b6cdfa7bc_Gemini_Generated_Image_cz3pcfcz3pcfcz3p.png?auth_key=1862860558-3b73e4ad19d44ec18dea8fbd77cd48b2-0-7d49e35d2ad1709a1db01f44b970ca61" 
+                             alt="પટણથી પ્રેરણા Patan inspiration" loading="lazy">
+                        <figcaption>
+                            <span data-lang="gu">પાટણ પ્રેરણા</span>
+                            <span data-lang="en" class="hidden">Patan Inspiration</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section>
+
+        <!-- Lightbox -->
+        <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+            <button class="lightbox-close" aria-label="Close">&times;</button>
+            <img src="" alt="" class="lightbox-img">
+            <p class="lightbox-caption"></p>
+        </div>
+
+        <!-- Reviews / Trust -->
+        <section class="reviews">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">⭐ ગ્રાહક અભિપ્રાય</span>
+                    <span data-lang="en" class="hidden">⭐ Customer Reviews</span>
+                </h2>
+                <div class="reviews-grid">
+                    <blockquote class="review-card">
+                        <div class="stars" aria-label="5 stars">★★★★★</div>
+                        <p data-lang="gu">"સાચુ કહુ તો, પાટણ જેવો જ સ્વાદ! દર વખતે પરફેક્ટ ખમણ બને છે."</p>
+                        <p data-lang="en" class="hidden">"Truly tastes like Patan! Perfect khaman every single time."</p>
+                        <cite data-lang="gu">— કવિતા બેન, અમદાવાદ</cite>
+                        <cite data-lang="en" class="hidden">— Kavita Ben, Ahmedabad</cite>
+                    </blockquote>
+                    <blockquote class="review-card">
+                        <div class="stars" aria-label="5 stars">★★★★★</div>
+                        <p data-lang="gu">"બહુજ સરળ અને ઝડપી. મહેમાનો માટે બેસ્ટ ઓપ્શન."</p>
+                        <p data-lang="en" class="hidden">"Super easy and fast. Best option for guests."</p>
+                        <cite data-lang="gu">— રાજુભાઈ, વડોદરા</cite>
+                        <cite data-lang="en" class="hidden">— Rajubhai, Vadodara</cite>
+                    </blockquote>
+                </div>
+            </div>
+        </section>
+
+        <!-- Shipping & T&C -->
+        <section class="shipping">
+            <div class="container">
+                <div class="shipping-card">
+                    <h3>
+                        <span data-lang="gu">🚚 શિપિંગ અને નિયમો</span>
+                        <span data-lang="en" class="hidden">🚚 Shipping & Terms</span>
+                    </h3>
+                    <p style="font-size: 1.25rem; margin: 1rem 0;">
+                        <span data-lang="gu">ગુજરાતભરમાં ડિલિવરી — નિયમ અને શરતો લાગુ</span>
+                        <span data-lang="en" class="hidden">Shipping across Gujarat — T&C apply</span>
+                    </p>
+                    <small style="color: var(--color-text-muted);">
+                        <span data-lang="gu">ન્યુનતમ ઓર્ડર અને ડિલિવરી સમય વિશે વિગતો માટે સંપર્ક કરો.</span>
+                        <span data-lang="en" class="hidden">Contact for minimum order and delivery time details.</span>
+                    </small>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact -->
+        <section class="contact">
+            <div class="container">
+                <h2>
+                    <span data-lang="gu">📞 સંપર્ક કરો</span>
+                    <span data-lang="en" class="hidden">📞 Contact Us</span>
+                </h2>
+                <div class="contact-grid">
+                    <div class="contact-card">
+                        <svg width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2">
+                            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+                        </svg>
+                        <p class="contact-number">+91 98256 76227</p>
+                        <div class="contact-actions">
+                            <a href="tel:+919825676227" class="btn btn-primary">
+                                <span data-lang="gu">📞 ફોન કરો</span>
+                                <span data-lang="en" class="hidden">📞 Call</span>
+                            </a>
+                            <a href="https://wa.me/919825676227" class="btn btn-secondary">
+                                <span data-lang="gu">💬 વોટ્સએપ્પ કરો</span>
+                                <span data-lang="en" class="hidden">💬 WhatsApp</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 રાજવી નાયલોન ખમણ. All rights reserved.</p>
+                <div class="footer-links">
+                    <a href="#" data-lang="gu">ગોપનીયતા નીતિ</a>
+                    <a href="#" data-lang="en" class="hidden">Privacy Policy</a>
+                    <a href="#" data-lang="gu">અરજીઓ અને શરતો</a>
+                    <a href="#" data-lang="en" class="hidden">Terms & Conditions</a>
+                </div>
+                <p class="address" data-lang="gu">🏭 ઉત્પાદન સ્થળ: પાટણ, ગુજરાત</p>
+                <p class="address hidden" data-lang="en">🏭 Made in: Patan, Gujarat</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // ===== ENHANCED LANGUAGE TOGGLE WITH ANIMATION =====
+        const langToggle = document.getElementById('langToggle');
+        const langElements = document.querySelectorAll('[data-lang]');
+        let currentLang = localStorage.getItem('preferredLanguage') || 
+                         (navigator.language.startsWith('gu') ? 'gu' : 'en');
+
+        function setLanguage(lang) {
+            currentLang = lang;
+            localStorage.setItem('preferredLanguage', lang);
+            document.documentElement.lang = lang;
+            
+            // Animate language change
+            document.body.style.opacity = '0.8';
+            setTimeout(() => {
+                langElements.forEach(el => {
+                    el.classList.toggle('hidden', el.dataset.lang !== lang);
+                });
+                document.body.style.opacity = '1';
+            }, 150);
+        }
+
+        langToggle.addEventListener('click', () => {
+            const newLang = currentLang === 'gu' ? 'en' : 'gu';
+            setLanguage(newLang);
+        });
+
+        // Initialize language
+        document.addEventListener('DOMContentLoaded', () => {
+            setLanguage(currentLang);
+            // Animate sections on load
+            document.querySelectorAll('section').forEach((section, index) => {
+                section.style.animationDelay = `${index * 0.1}s`;
+            });
+        });
+
+        // ===== STICKY CONTACT BAR WITH SMOOTH APPEAR =====
+        const stickyContact = document.querySelector('.sticky-contact');
+        let lastScroll = 0;
+        let scrollTimeout;
+
+        function toggleStickyContact() {
+            clearTimeout(scrollTimeout);
+            scrollTimeout = setTimeout(() => {
+                const scrollY = window.scrollY;
+                if (scrollY > 300 && scrollY > lastScroll) {
+                    stickyContact.classList.add('visible');
+                } else {
+                    stickyContact.classList.remove('visible');
+                }
+                lastScroll = scrollY;
+            }, 50);
+        }
+
+        window.addEventListener('scroll', toggleStickyContact);
+
+        // ===== LIGHTBOX WITH KEYBOARD SUPPORT =====
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = lightbox.querySelector('.lightbox-img');
+        const lightboxCaption = lightbox.querySelector('.lightbox-caption');
+        const lightboxClose = lightbox.querySelector('.lightbox-close');
+        const galleryItems = document.querySelectorAll('.gallery-item img');
+
+        galleryItems.forEach(img => {
+            img.addEventListener('click', () => {
+                lightboxImg.src = img.src;
+                lightboxImg.alt = img.alt;
+                lightboxCaption.textContent = img.alt;
+                lightbox.setAttribute('aria-hidden', 'false');
+                lightbox.classList.add('active');
+                document.body.style.overflow = 'hidden';
+                lightboxClose.focus();
+            });
+        });
+
+        function closeLightbox() {
+            lightbox.classList.remove('active');
+            lightbox.setAttribute('aria-hidden', 'true');
+            document.body.style.overflow = '';
+        }
+
+        lightboxClose.addEventListener('click', closeLightbox);
+        lightbox.addEventListener('click', (e) => {
+            if (e.target === lightbox) closeLightbox();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+                closeLightbox();
+            }
+        });
+
+        // ===== SMOOTH SCROLL FOR ANCHOR LINKS =====
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // ===== BUTTON PULSE EFFECT ON CLICK =====
+        document.querySelectorAll('.btn').forEach(button => {
+            button.addEventListener('click', function() {
+                this.style.animation = 'pulse 0.6s ease';
+                setTimeout(() => this.style.animation = '', 600);
+            });
+        });
+
+        // ===== PERFORMANCE: LAZY LOAD SIMULATION FOR GALLERY =====
+        const imageObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry, index) => {
+                if (entry.isIntersecting) {
+                    setTimeout(() => {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'scale(1)';
+                    }, index * 100);
+                    imageObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.gallery-item').forEach(img => {
+            img.style.opacity = '0';
+            img.style.transform = 'scale(0.9)';
+            img.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            imageObserver.observe(img);
+        });
+
+        console.log('🚀 રાજવી નાયલોન ખમણ વેબસાઇટ તૈયાર! RAJVI NAYLON KHAMAN Website Ready!');
+    </script>
+</body>
+</html>
